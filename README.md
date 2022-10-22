@@ -1,6 +1,6 @@
 ## Oiii eu sou a Camila! 
 
-- 🌱 Estou estudando HTML, CSS, JAVASCRIPT, JAVA, SQL e BOOTSTRAP
+- 🌱 Estou estudando HTML, CSS, JAVASCRIPT, SQL e BOOTSTRAP
 
  <div align="center">
   <a href="https://github.com/Camila-tech2">
