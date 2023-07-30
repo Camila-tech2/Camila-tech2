@@ -1,8 +1,6 @@
 ## Oiii eu sou a Camila! 
 
 - 🌱 Estou estudando HTML, CSS, JAVASCRIPT e PHP
-- 🎁 Gosto de planejar e organizar
-- 🎨 Desiner Intermediário 
  
  ##
  
